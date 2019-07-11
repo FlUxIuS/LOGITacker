@@ -1,0 +1,5 @@
+script press GUI r
+script delay 20
+script string calc.exe
+script delay 20
+script press ENTER
